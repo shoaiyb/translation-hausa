@@ -8,56 +8,56 @@ BUTTONS
 
 
 MENU ITEMS
-    ">Current page",">Trenutna stran"
+    ">Current page",">Shafin yanzu"
     ">Menu",">Meni"
     ">Files",">Fayiloli"
     ">Themes",">Jigogi"
-    ">Plugins",">Vtičniki"
+    ">Plugins",">Kayayyaki"
     ">Security",">Tsaro"
 
 
 CURRENT PAGE
-    ">Page title",">Ime strani"
-    ">Page keywords",">Ključne besede"
-    ">Page description",">Opis"
-    "> Delete page","> Izbriši stran"
-    "return confirm\('Delete (.*?)\?'\)","return confirm('Izbris $1?')"
+    ">Page title",">Taken shafi"
+    ">Page keywords",">Kalmomin shafi"
+    ">Page description",">Bayanin shafi"
+    "> Delete page","> Goge shafi"
+    "return confirm\('Delete (.*?)\?'\)","dawo tabbatar('Goge $1?')"
 
 
 MENU
-    ">Website title","> Naslov strani"
-    ">Page to display on homepage","> Stran za prikaz na domači strani"
-    ">visit",">obišči"
-    "> Add page","> Dodaj stran"
+    ">Website title","> Taken shafin yanar gizo"
+    ">Page to display on homepage","> Shafi domin nunawa akan shafin farko"
+    ">visit",">ziyarci"
+    "> Add page","> Kara shafi"
 
 
 FILES
-    ">Upload","> Naloži"
-    ">Delete files","> Izbris datotek"
+    ">Upload","> Loda"
+    ">Delete files","> Goge fayiloli"
 
 
 THEMES AND PLUGINS
-    "> Check for updates","> Preveri posodobitve"
-    "return confirm\('Remove (.*?)\?'\)","return confirm('Izbris $1?')"
-    ">Active",">V uporabi"
-    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktiviraj $1?')"
-    "> Activate","> Aktiviraj"
-    "> More info","> Več informacij"
-    "> Install","> Namesti"
-    ">Installed version:",">Nameščena verzija:"
-    ">Custom repository",">Odlagališče po meri (repository)"
-    "Enter URL to custom repository","Vnesi URL za odlagališče"
-    "> Add", "> Dodaj"
-    "> Read more about custom repositories",">Preberi več o odlagališčih po meri"
+    "> Check for updates","> Bincika sabuntawa"
+    "return confirm\('Remove (.*?)\?'\)","dawo tabbatar('Cire $1?')"
+    ">Active",">Yana aiki"
+    "return confirm\('Activate (.*?) theme\?'\)","dawo tabbatar('Kunna $1?')"
+    "> Activate","> Kunna"
+    "> More info","> Karin bayani"
+    "> Install","> Girka"
+    ">Installed version:",">Girkakkiyar siga:"
+    ">Custom repository",">Ma'ajiya ta al'ada"
+    "Enter URL to custom repository","Shigar da url na ma'ajiyar al'ada"
+    "> Add", "> Kara"
+    "> Read more about custom repositories",">Karanta game da wurin ajiya na al'ada"
 
 
 SECURITY
-    ">Admin login URL","> URL/povezava za vpis"
-    ">Save your login URL to log in to your website next time:",">Shrani svojo URL povezavo za ponoven vpis z admin računom"
-    ">Password",">Geslo"
-    "Old password","Staro geslo"
-    "New password","Novo geslo"
-    "> Change password","> Spremeni geslo"
+    ">Admin login URL","> URL/adireshin shafin admin"
+    ">Save your login URL to log in to your website next time:",">Adana adireshin admin don shiga shafin yanar gizonku a nan gaba"
+    ">Password",">Kalmar sirri"
+    "Old password","Tsohon kalmar sirri"
+    "New password","Sabon kalmar sirri"
+    "> Change password","> Canza kalmar sirri"
 
     "> How to restore backup","> Kako obnoviti varnostno kopijo"
     ">Improved security \(Apache only\)",">Dodatna varnost (samo Apache serverji)"
