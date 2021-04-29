@@ -1,19 +1,19 @@
 OVERLAYS
-    ">Saving","> Shranjujem"
-    ">Checking for updates",">Preverjam posodobitve"
+    ">Saving","> Tanadi"
+    ">Checking for updates",">Dubawa domin sabuntawa"
 
 
 BUTTONS
-    "> Settings","> Nastavitve"
+    "> Settings","> Saituna"
 
 
 MENU ITEMS
     ">Current page",">Trenutna stran"
     ">Menu",">Meni"
-    ">Files",">Datoteke"
-    ">Themes",">Teme
+    ">Files",">Fayiloli"
+    ">Themes",">Jigogi"
     ">Plugins",">Vtičniki"
-    ">Security",">Varnost"
+    ">Security",">Tsaro"
 
 
 CURRENT PAGE
@@ -62,28 +62,28 @@ SECURITY
     "> How to restore backup","> Kako obnoviti varnostno kopijo"
     ">Improved security \(Apache only\)",">Dodatna varnost (samo Apache serverji)"
     ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">HTTPS preusmeritev, 30-dnevno keširanje, iframi dovoljeni samo iz istega izvora."
-    ">ON \(warning: may break your website\)",">Vklop (lahko zlomi vaše spletno mesto)"
-    ">OFF \(reset htaccess to default\)",">Izklop (resetiraj dodatno varnost)"
-    "> Read more before enabling","> Preberi več pred vklopom"
-    ">Backup","> Varnostna kopija strani"
-    "> Backup website","> Varnostna kopija"
-    ">Last 5 logins",">Zadnjih 5 vpisov"
+    ">ON \(warning: may break your website\)",">KUNNA (gargadi: na iya karya shafin yanar gizon ku)"
+    ">OFF \(reset htaccess to default\)",">KASHE (sake saita htaccess zuwa tsoho)"
+    "> Read more before enabling","> Kara karantawa kafin ku kunna"
+    ">Backup","> Ajiye shafi"
+    "> Backup website","> Ajiye shafin yanar gizo"
+    ">Last 5 logins",">Karshen shiga 5"
 
 
 STATISTICS
-    ">Statistics",">Statistika"
-    ">Today",">Danes"
-    ">This week",">Ta teden"
-    ">Most popular page",">Najbolj popularna stran"
-    ">Pageviews last two weeks",">Št. ogledov v preteklih 2 tednih"
-    ">Sessions last two weeks",">Št. sej v preteklih 2 tednih"
-    ">Sessions",">Št. Sej"
-    ">Pageviews",">Ogledov"
+    ">Statistics",">Kididdiga"
+    ">Today",">Yau"
+    ">This week",">Wannan makon"
+    ">Most popular page",">Shafi mafi shahara"
+    ">Pageviews last two weeks",">Duban shafi na makonni biyu da suka gabata"
+    ">Sessions last two weeks",">Gamuwar makonni biyu da suka gabata"
+    ">Sessions",">Gamuwa"
+    ">Pageviews",">Duba shafi"
 
 
 FOOTER
-    ">News",">Novice"
-    ">Community",">Forum"
-    ">Docs",">Dokumentacija"
-    ">Donate",">Doniraj"
-    ">Shop\/Merch",">Shop"
+    ">News",">Labarai"
+    ">Community",">Dandalin tattaunawa"
+    ">Docs",">Bayanai"
+    ">Donate",">Bayar da gudummawa"
+    ">Shop\/Merch",">Shago"
