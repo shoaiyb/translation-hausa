@@ -4,7 +4,7 @@
 
 <br><br>
 
-This plugin adds Hausa translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version). Plugin author: Stephan Stanisic.
+This plugin adds Hausa translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version).
 <!--
 # How to adapt to another language
 1. Fork this repository (which is the latest with all included translations): https://github.com/robiso/translation-slovenian/
@@ -25,9 +25,9 @@ This plugin adds Hausa translations to the WonderCMS admin area, based on `https
 
 
 ## How this works
-The translations are all in the si_HAU.csv file.   
+The translations are all in the hau.csv file.   
 Why in CVS? That's how all
-other major CMSes do it, so there must be a good reason for it.
+other major CMS's do it, so there must be a good reason for it.
 
 You will see something like this a lot: 
 
