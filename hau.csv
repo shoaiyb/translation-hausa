@@ -59,9 +59,9 @@ SECURITY
     "New password","Sabon kalmar sirri"
     "> Change password","> Canza kalmar sirri"
 
-    "> How to restore backup","> Kako obnoviti varnostno kopijo"
-    ">Improved security \(Apache only\)",">Dodatna varnost (samo Apache serverji)"
-    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">HTTPS preusmeritev, 30-dnevno keširanje, iframi dovoljeni samo iz istega izvora."
+    "> How to restore backup","> Yadda zaku mayar da ajiyayyen shafi"
+    ">Improved security \(Apache only\)",">Inganta tsaro (Apache kawai)"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">Sauyawa zuwa HTTPS, caching na tsawon kwana 30, yarje wa iframe idan daga asali daya ne kawai, rigakafin gurbatattun nau'ikan mime, manufofin cookie mai turawa da mai nunawa."
     ">ON \(warning: may break your website\)",">KUNNA (gargadi: na iya karya shafin yanar gizon ku)"
     ">OFF \(reset htaccess to default\)",">KASHE (sake saita htaccess zuwa tsoho)"
     "> Read more before enabling","> Kara karantawa kafin ku kunna"
