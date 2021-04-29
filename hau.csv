@@ -1,6 +1,6 @@
 OVERLAYS
     ">Saving","> Tanadi"
-    ">Checking for updates",">Dubawa domin sabuntawa"
+    ">Checking for updates",">Bincikawa domin sabuntawa"
 
 
 BUTTONS
@@ -9,7 +9,7 @@ BUTTONS
 
 MENU ITEMS
     ">Current page",">Shafin yanzu"
-    ">Menu",">Meni"
+    ">Menu",">Maballin kewayawa"
     ">Files",">Fayiloli"
     ">Themes",">Jigogi"
     ">Plugins",">Kayayyaki"
@@ -39,7 +39,7 @@ FILES
 THEMES AND PLUGINS
     "> Check for updates","> Bincika sabuntawa"
     "return confirm\('Remove (.*?)\?'\)","dawo tabbatar('Cire $1?')"
-    ">Active",">Yana aiki"
+    ">Active",">Yana kan aiki"
     "return confirm\('Activate (.*?) theme\?'\)","dawo tabbatar('Kunna $1?')"
     "> Activate","> Kunna"
     "> More info","> Karin bayani"
