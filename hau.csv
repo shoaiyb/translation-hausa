@@ -1,5 +1,5 @@
 OVERLAYS
-    ">Saving","> Tanadi"
+    ">Saving",">Tanadi"
     ">Checking for updates",">Bincikawa domin sabuntawa"
 
 
@@ -11,7 +11,7 @@ MENU ITEMS
     ">Current page",">Shafin yanzu"
     ">Menu",">Maballin kewayawa"
     ">Files",">Fayiloli"
-    ">Themes",">Jigogi"
+    ">Themes",">Fasali"
     ">Plugins",">Kayayyaki"
     ">Security",">Tsaro"
 
@@ -21,43 +21,43 @@ CURRENT PAGE
     ">Page keywords",">Kalmomin shafi"
     ">Page description",">Bayanin shafi"
     "> Delete page","> Goge shafi"
-    "return confirm\('Delete (.*?)\?'\)","dawo tabbatar('Goge $1?')"
+    "return confirm\('Delete (.*?)\?'\)","return confirm('Goge $1?')"
 
 
 MENU
-    ">Website title","> Taken shafin yanar gizo"
-    ">Page to display on homepage","> Shafi domin nunawa akan shafin farko"
+    ">Website title",">Taken shafin yanar gizo"
+    ">Page to display on homepage",">Shafi domin nunawa akan shafin farko"
     ">visit",">ziyarci"
     "> Add page","> Kara shafi"
 
 
 FILES
-    ">Upload","> Loda"
-    ">Delete files","> Goge fayiloli"
+    ">Upload",">Loda"
+    ">Delete files",">Goge fayiloli"
 
 
 THEMES AND PLUGINS
     "> Check for updates","> Bincika sabuntawa"
-    "return confirm\('Remove (.*?)\?'\)","dawo tabbatar('Cire $1?')"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Cire $1?')"
     ">Active",">Yana kan aiki"
-    "return confirm\('Activate (.*?) theme\?'\)","dawo tabbatar('Kunna $1?')"
+    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Kunna $1?')"
     "> Activate","> Kunna"
     "> More info","> Karin bayani"
-    "> Install","> Girka"
+    "> Install","> Kunna"
     ">Installed version:",">Girkakkiyar siga:"
     ">Custom repository",">Ma'ajiya ta al'ada"
-    "Enter URL to custom repository","Shigar da url na ma'ajiyar al'ada"
+    "Enter URL to custom repository","Shigar da adireshin ma'ajiyar al'ada"
     "> Add", "> Kara"
-    "> Read more about custom repositories",">Karanta game da wurin ajiya na al'ada"
+    "> Read more about custom repositories","> Karanta game da wurin ajiya na al'ada"
 
 
 SECURITY
-    ">Admin login URL","> URL/adireshin shafin admin"
+    ">Admin login URL",">URL/adireshin shafin admin"
     ">Save your login URL to log in to your website next time:",">Adana adireshin admin don shiga shafin yanar gizonku a nan gaba"
     ">Password",">Kalmar sirri"
-    "Old password","Tsohon kalmar sirri"
-    "New password","Sabon kalmar sirri"
-    "> Change password","> Canza kalmar sirri"
+    "Old password","Tsohuwar kalmar sirri"
+    "New password","Sabuwar kalmar sirri"
+    "> Change password","> Canja kalmar sirri"
 
     "> How to restore backup","> Yadda zaku mayar da ajiyayyen shafi"
     ">Improved security \(Apache only\)",">Inganta tsaro (Apache kawai)"
@@ -65,7 +65,7 @@ SECURITY
     ">ON \(warning: may break your website\)",">KUNNA (gargadi: na iya karya shafin yanar gizon ku)"
     ">OFF \(reset htaccess to default\)",">KASHE (sake saita htaccess zuwa tsoho)"
     "> Read more before enabling","> Kara karantawa kafin ku kunna"
-    ">Backup","> Ajiye shafi"
+    ">Backup",">Ajiye shafi"
     "> Backup website","> Ajiye shafin yanar gizo"
     ">Last 5 logins",">Karshen shiga 5"
 
